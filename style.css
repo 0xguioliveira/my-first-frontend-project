@@ -26,7 +26,7 @@ nav a {
 	text-transform: uppercase;
 	color: #000000;
 	font-weight: bold;
-	font-size:: 22px;
+	font-size: 22px;
 	text-decoration: none;
 }
 
@@ -90,9 +90,7 @@ footer{
 	font-size: 13px;
 	margin-top: 20px;
 }
-main {
 
-}
 form {
 	margin: 40px 0 ;
 }
@@ -249,6 +247,7 @@ width: 100%;
 	nav {
 		position: static;
 	}
-	.lista-beneficios, .imagem-beneficios {
+	.lista-beneficios, .imagem-beneficios{
 		width: 100%;
 	}
+}
